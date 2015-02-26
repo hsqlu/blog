@@ -42,6 +42,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+	编程: programming
 tag_map:
 
 # Archives
@@ -75,6 +76,9 @@ pagination_dir: page
 
 # Disqus
 disqus_shortname:
+
+#多说
+duoshuo_shortname: hsqlu
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
