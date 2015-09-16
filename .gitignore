@@ -5,5 +5,3 @@ debug.log
 node_modules/
 public/
 .deploy/clear
-themes/landsacpe
-themes/neo
