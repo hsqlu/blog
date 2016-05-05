@@ -83,8 +83,9 @@ duoshuo_shortname: hsqlu
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-# theme: landscape
-theme: hexo-theme-next-0.4.0
+## theme: landscape
+## theme: hexo-theme-next-0.4.0
+theme: next
 exclude_generator:
 
 # Deployment
