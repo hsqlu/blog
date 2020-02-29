@@ -6,24 +6,30 @@
 title: 无声处
 subtitle:
 description:
-author: Qiannan Lu
-email:
-language:
+author: Qiannan Lyu
+email: qiannan.lyu@gmail.com
+language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://hsqlu.github.io
 root: /
 permalink: :year/:month/:day/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
+# tag_dir: tags
+# archive_dir: archives
+# category_dir: categories
+# code_dir: downloads/code
 permalink_defaults:
 
 # Directory
 source_dir: source
 public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -80,11 +86,8 @@ disqus_shortname:
 #多说
 duoshuo_shortname: hsqlu
 
-# Extensions
-## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
-## Themes: https://github.com/hexojs/hexo/wiki/Themes
-## theme: landscape
-## theme: hexo-theme-next-0.4.0
+# Theme 
+## next theme: https://github.com/theme-next/hexo-theme-next v7.7.0
 theme: next
 exclude_generator:
 
