@@ -1,14 +1,14 @@
-﻿title: about
+﻿title: About
 date: 2015-02-26 15:14:53
 ---
-# Qiannan Lu
+# Qiannan Lyu
 
-- lvqiannan@hotmail.com
+- lvqiannan@gmail.com
 
 # 个人信息
 
 - 硕士/利物浦大学高级计算机科学
-- 工作年限：5年
+- 工作年限：10年
 <!-- - 微博：[@JobDeer](http://weibo.com/jobdeer)  -->
 - 博客：http://hsqlu.github.io & http://my.oschina.net/vampire/blog
 - Github: http://github.com/hsqlu 
@@ -19,7 +19,7 @@ date: 2015-02-26 15:14:53
 
 
 ## 开源项目
- - [STU](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
+ - [TiDB](http://github.com/pingcap/tidb) : Contributor of TiDB
 
 ## 技术文章
 
